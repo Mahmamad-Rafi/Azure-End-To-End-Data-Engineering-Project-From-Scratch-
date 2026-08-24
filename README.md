@@ -1596,16 +1596,15 @@ Each folder contains screenshots demonstrating the implementation of the corresp
 
 # 🙋 Author
 
-**Sohail Akhter**
+**Mahmamad Rafi**
 
-Information Technology Graduate | Azure Data Engineering Enthusiast
+Data Engineer | Azure Data Engineering Enthusiast
 
-GitHub: https://github.com/sohailGHUB
+GitHub: https://github.com/Mahmamad-Rafi
 
-LinkedIn: https://linkedin.com/in/sohail-akhter
+LinkedIn: https://linkedin.com/in/rafishaikmd
 
 ---
-
 
 # ⭐ Support
 
@@ -1619,11 +1618,8 @@ If you found this repository helpful:
 
 ---
 
-
 ## Thank You for Visiting!
 
 If you have any suggestions or feedback, feel free to connect with me.
 
 Happy Learning! 🚀
-
-
